@@ -16,7 +16,7 @@ Disponible tanto en Jupyter Notebook como en programa Python.
 
 RNN de una capa oculta con 256 nodos. Se describen todas las partes, se realiza el entrenamiento y luego la evaluación de las predicciones en la corrección.
 
-## ML_Desbalanceo_Coches (Modelo de clasificación)
+## ML_Clasif_Coches (Modelo de clasificación)
 Utilizaremos CocheRadar.csv para el estudio, análisis y diseño de la mejor técnica para crear un modelo de clasificación para clasificar en base a un conjunto de atributos numéricos, cuando un radar identifica a un coche o a otro vehículo. Como veremos el dataset está altamente desbalanceado.
 
 ![image](https://github.com/user-attachments/assets/163da28d-af04-400e-bfe9-464336adf4a1)
