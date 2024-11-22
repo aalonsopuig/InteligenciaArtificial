@@ -1,0 +1,25 @@
+-- Descripción del dataset
+
+El dataset Radar-Coches, es un dataset que permite distinguir a un coche de cualquier otro
+vehículo en función de ciertas características que se describen en estos 18 atributos todos 
+numéricos:
+- Compacto
+- Circularidad
+- Distancia_circular
+- Relación_radio
+- Relación_aspecto_praxis
+- Relación_aspecto_longitud_máx
+- Relación_dispersión
+- Alargamiento
+- Praxis_rectangular
+- Longitud_rectangular
+- Varianza_mayor
+- Varianza_menor
+- Rotación_radio
+- Asimetría_mayor
+- Asimetría_menor
+- Curtosis_meno
+- Curtosis_mayor
+- huecos
+
+El atributo objetivo es clasificar según esos atributos el tipo del vehículos entre un coche y otros vehículos.
