@@ -26,3 +26,4 @@ Evaluamos cada modelo con métricas clave como Accuracy, F1-Score y ROC-AUC para
 
 ![image](https://github.com/user-attachments/assets/bc5e1533-874b-4a75-9c07-8269ff477e34)
 
+Disponible tanto en Jupyter Notebook como en programa Python. 
