@@ -403,7 +403,7 @@ def timeSince(since, percent):
 # Muestra los gráficos directamente en el notebook.
 
 import matplotlib.pyplot as plt
-plt.switch_backend('agg')  # Cambia el backend de Matplotlib para no mostrar gráficos en vivo.
+#plt.switch_backend('agg')  # Cambia el backend de Matplotlib para no mostrar gráficos en vivo.
 import matplotlib.ticker as ticker  # Importa herramientas para manipular los ejes de las gráficas.
 import numpy as np
 
