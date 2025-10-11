@@ -2,7 +2,7 @@
  Programas y ejemplos varios de IA
 
 
-## Ejemplo regresión lineal diabetes
+## Regresion
 En este Jupyter Notebook vamos a aplicar un ejemplo sencillo de modelo de regresión lineal utilizando Python y scikit-learn. El objetivo es predecir una variable continua a partir de otras características numéricas, siguiendo el ciclo habitual de trabajo en machine learning.
 
 ## RNN_Traductor
