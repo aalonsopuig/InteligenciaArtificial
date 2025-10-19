@@ -5,6 +5,9 @@
 ## Regresion
 En este Jupyter Notebook vamos a aplicar un ejemplo sencillo de modelo de regresión lineal utilizando Python y scikit-learn. El objetivo es predecir una variable continua a partir de otras características numéricas, siguiendo el ciclo habitual de trabajo en machine learning.
 
+## Clasificacion
+Este Jupyter Notebook implementa y compara tres modelos de clasificación supervisada (regresión logística, k-vecinos y árbol de decisión) aplicados al conjunto de datos `breast_cancer` incluido en scikit-learn. Incluye análisis exploratorio, tratamiento de clases desbalanceadas, evaluación con métricas estándar y guardado del modelo más preciso.
+
 ## RNN_Traductor
 Ejemplo de Red Neuronal Recurrente, un tipo de red neuronal diseñada para procesar secuencias de datos al mantener información temporal mediante conexiones recurrentes, que utiliza modelo de atención de Bahdanau. Permite traducciones de frases de un idioma a otro. 
 
