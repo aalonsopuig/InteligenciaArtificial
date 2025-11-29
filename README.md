@@ -2,11 +2,21 @@
  Programas y ejemplos varios de IA
 
 
-## Regresion
+## Regresion_Diabetes
 En este Jupyter Notebook vamos a aplicar un ejemplo sencillo de modelo de regresión lineal utilizando Python y scikit-learn. El objetivo es predecir una variable continua a partir de otras características numéricas, siguiendo el ciclo habitual de trabajo en machine learning.
 
-## Clasificacion
+## Clasificacion_Breast_cancer
 Este Jupyter Notebook implementa y compara tres modelos de clasificación supervisada (regresión logística, k-vecinos y árbol de decisión) aplicados al conjunto de datos `breast_cancer` incluido en scikit-learn. Incluye análisis exploratorio, tratamiento de clases desbalanceadas, evaluación con métricas estándar y guardado del modelo más preciso.
+
+## Evolutivos_Divisor
+Este notebook muestra un ejemplo educativo de algoritmos evolutivos, aplicados al diseño de un divisor de tensión resistivo que debe alcanzar un valor de salida concreto sin superar un límite de corriente. El problema es sencillo y puede resolverse también mediante búsqueda exhaustiva, incluida en el propio notebook para comparar resultados.
+
+El objetivo principal es ilustrar cómo funcionan los algoritmos evolutivos (representación de individuos, selección, cruce, mutación y elitismo) en un caso práctico del ámbito de la electrónica, usando resistencias de la serie E12.
+
+El notebook contiene:
+- Una implementación completa con algoritmos evolutivos.
+- Una solución equivalente mediante fuerza bruta.
+- Comparación de resultados entre ambos métodos.
 
 ## RNN_Traductor
 Ejemplo de Red Neuronal Recurrente, un tipo de red neuronal diseñada para procesar secuencias de datos al mantener información temporal mediante conexiones recurrentes, que utiliza modelo de atención de Bahdanau. Permite traducciones de frases de un idioma a otro. 
